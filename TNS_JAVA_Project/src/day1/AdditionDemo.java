@@ -12,6 +12,7 @@ public class AdditionDemo {
 		b=sr.nextInt();
 		c=a+b;
 		System.out.println("The Output Is: "+c);
+		sr.close();
 	}
 	
 }
