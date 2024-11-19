@@ -2,7 +2,7 @@ package com.tnsif.day4.DigitSum;
 
 import java.util.*;
 
-public class DigitSumDeom {
+public class DigitSumDemo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
